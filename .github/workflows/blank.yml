@@ -22,4 +22,4 @@ jobs:
             echo "📬 A pull request has been opened."
           else
             echo "🔔 Some other event triggered this."
-          fi
+          
